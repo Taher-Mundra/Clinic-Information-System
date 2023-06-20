@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+D:\My folder\Stevens University assignment\548_ass8\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+232529232.index
+1185461242.index
+10953192.index
